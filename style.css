@@ -67,6 +67,7 @@ button {
     justify-content: space-around;
     align-items: center;
     min-width: 700px;
+    margin-bottom: 3rem;
 }
 
 .special {
@@ -90,4 +91,18 @@ button {
 
 .paragraph {
     font-size: 16px;
+}
+
+.finalBox {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 7px; 
+    justify-content: center;
+    width: 700px;
+    margin-bottom: 20px;
+}
+
+.final {
+    color: #A6D7F1;
 }
